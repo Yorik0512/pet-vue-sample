@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # Weather
 Vue JS project is showing weather forecast.
 
