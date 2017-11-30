@@ -2,7 +2,8 @@
 
 # Weather
 Vue JS project is showing weather forecast.
-Live demo [a link](https://yorik0512.github.io/portfolio/weather-forecast-vue-js/)
+
+Live demo [link](https://yorik0512.github.io/portfolio/weather-forecast-vue-js/)
 
 ## Installation and Startup
 ```
